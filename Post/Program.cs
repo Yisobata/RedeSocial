@@ -36,7 +36,6 @@ namespace RedeSocial
 
             Console.WriteLine(p1);
             Console.WriteLine(p2);
-
         }
     }
 }
