@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Post.Entities
+namespace RedeSocial.Entities
 {
     class Comment
     {
